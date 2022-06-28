@@ -1,0 +1,13 @@
+PackageIdentifier: wez.wezterm
+PackageVersion: 20220628-083052-b5518d5c
+MinimumOSVersion: 10.0.0.0
+InstallerType: inno
+UpgradeBehavior: install
+ReleaseDate: 2022-06-28
+Installers:
+- Architecture: x64
+  InstallerUrl: https://github.com/wez/wezterm/releases/download/20220628-083052-b5518d5c/target/debug/wezterm
+  InstallerSha256: 8E0477171781FCFE25C63AAFA29A7438EB35F5731260690503E39B331FBC2A4E
+  ProductCode: '{BCF6F0DA-5B9A-408D-8562-F680AE6E1EAF}_is1'
+ManifestType: installer
+ManifestVersion: 1.1.0

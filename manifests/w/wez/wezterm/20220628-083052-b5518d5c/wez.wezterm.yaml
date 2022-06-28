@@ -1,0 +1,5 @@
+PackageIdentifier: wez.wezterm
+PackageVersion: 20220628-083052-b5518d5c
+DefaultLocale: en-US
+ManifestType: version
+ManifestVersion: 1.1.0
